@@ -20,5 +20,3 @@ The app uses the following APIs to fetch data:
 - React Router v6
 - React Query
 - Redux
-
-# Installation and Setup
