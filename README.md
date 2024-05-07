@@ -1,13 +1,13 @@
-# Contact Management App Task
+# Task - Contact Management App
 
 This is a contact management app built using ReactJS, JavaScript, TypeScript TailwindCSS, React Router v6, and Redux.
-The app consists a dashboard, that displays COVID-19 data for different countries.
+This app consists of a dashboard, that displays COVID-19 data for different countries.
 
 # APIs Used
 
 The app uses the following APIs to fetch data:
 
-- World wide data of cases: https://disease.sh/v3/covid-19/all
+- Worldwide data of cases: https://disease.sh/v3/covid-19/all
 - Country Specific data of cases: https://disease.sh/v3/covid-19/countries
 - Graph data for cases with date: https://disease.sh/v3/covid-19/historical/all?lastdays=all
 
