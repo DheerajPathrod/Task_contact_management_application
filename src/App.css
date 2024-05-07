@@ -38,4 +38,85 @@
   }
 }
 
+@media only screen and (max-width: 480px) {
+  .root {
+    font-size: 14px;
+  }
+  .content {
+    width: 50%;
+  }
+  .justify-center {
+    font-size: 14px;
+    width: 50%;
+  }
+  .sidebar {
+    width: 50%;
+  }
+  .middle {
+    width: 100%;
+  }
+  .edit-btn {
+    max-width: 40%;
+    min-width: 25;
+  }
+  .edit-btn {
+    max-width: 40%;
+    min-width: 25;
+  }
+}
+
+@media only screen and (min-width: 480px) and (max-width: 768px) {
+  .root {
+    font-size: 16px;
+  }
+  .content {
+    width: 75%;
+  }
+  .justify-center {
+    font-size: 14px;
+    width: 75%;
+  }
+  .sidebar {
+    width: 75%;
+  }
+  .middle {
+    width: 90%;
+  }
+  .edit-btn {
+    max-width: 70%;
+    min-width: 40;
+  }
+  .del-btn {
+    max-width: 70%;
+    min-width: 40;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .root {
+    font-size: 18px;
+  }
+  .content {
+    width: 100%;
+  }
+  .justify-center {
+    font-size: 18px;
+    width: 100%;
+  }
+  .sidebar {
+    width: 100%;
+  }
+  .middle {
+    width: 100%;
+  }
+  .edit-btn {
+    max-width: 100%;
+    min-width: 50%;
+  }
+  .del-btn {
+    max-width: 100%;
+    min-width: 50%;
+  }
+}
+
 
